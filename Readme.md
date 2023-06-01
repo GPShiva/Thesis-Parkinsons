@@ -1,6 +1,8 @@
 # Thesis-Parkinsons
 # USING MACHINE LEARNING TO DIAGNOSE THE PATIENTS AFFECTED BY PARKINSON’S DISEASE
 
+### Video submission link (https://youtu.be/89sZE8fLEgM)
+
 ## INTRODUCTION & PROBLEM STATEMENT 
 • Parkinson’s disease (PD) is a progressive neurodegenerative disorder that affects more number of people around the globe everyday. 
 • Patients diagnosed with PD have wide-ranging clinical characteristics, including motor and non-motor symptoms. Movement disorders including stiffness, resting tremor are some of the motor symptoms like Hallucinations, cognitive impairment, and impulse control disorders are some of non-motor symptoms. 
